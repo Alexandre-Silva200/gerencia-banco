@@ -13,3 +13,6 @@ Este projeto é um sistema simples de gerenciamento bancário em Java, que permi
 * Interface gráfica para melhor experiência do usuário.
   
 Este projeto pode ser expandido para incluir mais funcionalidades e é um excelente ponto de partida para estudos em desenvolvimento Java.
+
+
+# o codigo do projeto esta na primeira pasta src/main/java/com......
